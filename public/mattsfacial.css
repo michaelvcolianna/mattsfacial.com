@@ -1,0 +1,24 @@
+body
+{
+    margin: auto;
+    max-width: 900px;
+    padding: 15px;
+    text-align: center;
+}
+
+figure
+{
+    margin: 0;
+}
+
+figcaption
+{
+    display: none;
+}
+
+img
+{
+    display: block;
+    height: auto;
+    max-width: 100%;
+}
