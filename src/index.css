@@ -6,14 +6,9 @@ body
     text-align: center;
 }
 
-figure
+main
 {
-    margin: 0;
-}
-
-figcaption
-{
-    display: none;
+    text-align: center;
 }
 
 img
